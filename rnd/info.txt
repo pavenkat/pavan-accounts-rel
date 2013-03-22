@@ -1,0 +1,1 @@
+This folder cotains credentials and related files of SCBE AWS RND environment
