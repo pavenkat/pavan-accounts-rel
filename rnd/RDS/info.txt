@@ -1,0 +1,2 @@
+This folder contains information about Ec2
+RDS
